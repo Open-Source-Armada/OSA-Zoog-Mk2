@@ -42,7 +42,3 @@ Has two pilot seats for pilot to fly based on preference, doubles as a passenger
 The missile variant takes full advantage of the near zero cost of the hull, allowing you to deploy 5 missiles with next to no ship cost attached, it is basically the launcher and missiles.
 
 Ideally the launcher will be used to breach stations during siege, but I also expect it to be used as a risk free way to deploy some missiles.
-
-The missile varient takes full advantage of te near zero cost of the hull, allowing you to deploy 5 missiles with next to no ship cost attached, it is basicaly the launcher and missiles.
-
-Idealy the launcher will be used to breach stations during siege, but i also expect it to be used as a risk free way to deploy some missiles.
